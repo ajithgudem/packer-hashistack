@@ -1,0 +1,8 @@
+owner              = "ajith"
+se-region          = "AMER - Northeast E1 - R2"
+purpose            = "Hashistack image for demos and testing"
+ttl                = "-1"
+hc-internet-facing = "false"
+creator            = "ajith@hashicorp.com"
+config-as-code     = "packer"
+repo               = "ajith/packer-hashistack"
